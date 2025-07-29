@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou a Leticia, uma QA em constante evolução.
+## 👋 Olá! Eu sou a Leticia.
 
 Aqui você vai encontrar um portfólio técnico com projetos completos de QA moderno — da análise à automação.
 
