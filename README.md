@@ -8,35 +8,35 @@ Aqui você vai encontrar um portfólio técnico com projetos completos de QA mod
 ## 💻 Hard Skills  
 
 
-- Testes de Software Funcionais (Manuais)  
-- Ferramentas: GitHub, Jira, Visual Studio Code, Notion, Microsoft Teams, Outlook 
-- Metodologias Ágeis: Scrum e Kanban  
-- Proteção de Dados: GDPR e LGPD  
-- Identificação e Documentação de Bugs, Defeitos e Inconsistências  
-- Tecnologias: JavaScript, TypeScript, Node.js, React  
-- 🛠Frameworks e Ferramentas de Teste: Gherkin, Cypress, Postman, Figma
-- Criação de Cenários de Testes e Casos de Testes  
-- Testes em Plataforma Web e simulação de ambiente Mobile (via DevTools Google Chrome)
-- Testes Exploratórios, de Usabilidade, de Acessibilidade, Responsividade, Regressão, Funcionais
-- Ferramentas de Teste: LightHouse, Google DevTools, ABADI, ABADI Web
-- Metodologia OKR
-- Sugestões de Melhorias voltadas para a experiência do usuário  
-- Gestão de KPIs
-- Revisão e Criação das Regras do Negócio
+• Testes de Software Funcionais (Manuais)  
+• Ferramentas: GitHub, Jira, Visual Studio Code, Notion, Microsoft Teams, Outlook 
+• Metodologias Ágeis: Scrum e Kanban  
+• Proteção de Dados: GDPR e LGPD  
+• Identificação e Documentação de Bugs, Defeitos e Inconsistências  
+• Tecnologias: JavaScript, TypeScript, Node.js, React  
+• Frameworks e Ferramentas de Teste: Gherkin, Cypress, Postman, Figma
+• Criação de Cenários de Testes e Casos de Testes  
+• Testes em Plataforma Web e simulação de ambiente Mobile (via DevTools Google Chrome)
+• Testes Exploratórios, de Usabilidade, de Acessibilidade, Responsividade, Regressão, Funcionais
+• Ferramentas de Teste: LightHouse, Google DevTools, ABADI, ABADI Web
+• Metodologia OKR
+• Sugestões de Melhorias voltadas para a experiência do usuário  
+• Gestão de KPIs
+• Revisão e Criação das Regras do Negócio
 
 
 ## 🌟 Soft Skills  
 
-- Colaboração entre equipes
-- Comunicação eficaz com stakeholders
-- Gestão de tempo  
-- Perfil data-driven  
-- Foco em resultados  
-- Atenção aos detalhes  
-- Pensamento crítico  
-- Perfil proativo  
-- Adaptabilidade  
-- Resolução de problemas 
+• Colaboração entre equipes
+• Comunicação eficaz com stakeholders
+• Gestão de tempo  
+• Perfil data-driven  
+• Foco em resultados  
+• Atenção aos detalhes  
+• Pensamento crítico  
+• Perfil proativo  
+• Adaptabilidade  
+• Resolução de problemas 
 
 
 ## 🌍 Idiomas  
@@ -47,10 +47,12 @@ Aqui você vai encontrar um portfólio técnico com projetos completos de QA mod
   📫 **Vamos nos conectar?**  
  
 <div>
-  <a href="https://discord.com/channels/@me" target="_blank">Discord</a> - 
-  <a href = "cttleticiamenezes@gmail.com">E-mail</a> - 
+  <a href="https://discord.com/channels/@me" target="_blank">Discord</a> • 
+  <a href = "cttleticiamenezes@gmail.com" target="_blank">Email</a> • 
   <a href="www.linkedin.com/in/leticia-menezess" target="_blank">LinkedIn</a>
 </div>
+
+<br>
 
 <div>
   <a href="https://github.com/leticiamenezesb">
