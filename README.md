@@ -60,30 +60,5 @@ Aqui você vai encontrar um portfólio técnico com projetos completos de QA mod
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamenezesb&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
  
- <br>
 
- <!-- Contador de visitas alinhado à direita -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=joyce-cervantes&color=ff69b4&style=flat-square" alt="contador de visitas" />
-</p>  
-
-<!-- Imagem centralizada -->
-<p align="center" style="margin-bottom: -20px;">
-  <img src="https://github.com/joyce-cervantes/imagens-privadas/blob/main/welcome.png?raw=true" alt="Welcome" />
-</p>  
-
-
-<!-- Badges de redes sociais -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/joyce-santana-cervantes/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:joyce.cervantes@yahoo.com" target="_blank">
-    <img src="https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="E-mail Yahoo" />
-  </a>
-  <a href="https://github.com/joyce-cervantes" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-</p>  
 
