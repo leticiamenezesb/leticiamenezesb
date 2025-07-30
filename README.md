@@ -1,6 +1,7 @@
 ## 👋 Olá! Eu sou a Leticia.
 
 🎓 Formada em Ciência da Computação.
+
 🚀 Aqui você vai encontrar um portfólio técnico com projetos completos de QA  — da análise à automação.
 
 📌 *Apaixonada por qualidade, curiosa por natureza e com faro apurado para bugs escondidos.*
