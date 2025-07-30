@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou a Leticia.
 
-Formada em Ciência da Computação.
-Aqui você vai encontrar um portfólio técnico com projetos completos de QA  — da análise à automação.
+🎓 Formada em Ciência da Computação.
+🚀 Aqui você vai encontrar um portfólio técnico com projetos completos de QA  — da análise à automação.
 
 📌 *Apaixonada por qualidade, curiosa por natureza e com faro apurado para bugs escondidos.*
 
@@ -52,15 +52,16 @@ Aqui você vai encontrar um portfólio técnico com projetos completos de QA  �
 </div>
 
 <br>
- 
-<!-- Estatísticas do GitHub -->
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiamenezesb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiamenezesb&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
 
 <!-- Contador de visitas -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=leticiamenezesb&color=ff69b4&style=flat-square" alt="contador de visitas" />
 </p>
 
+---
+
+<p align="center">
+  <i>Qualidade não é detalhe. É estrutura.</i>  
+</p>
+
+---
