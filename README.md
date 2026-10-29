@@ -2,25 +2,22 @@
 
 🎓 Formada em Ciência da Computação.
 
-🚀 Aqui você vai encontrar um portfólio técnico com projetos completos de QA  — da análise à automação.
+🚀 Aqui você vai encontrar um portfólio técnico com projetos completos de Web Designer  — da análise à automação.
 
-📌 *Apaixonada por qualidade, curiosa por natureza e com faro apurado para bugs escondidos.*
+📌 *Apaixonada por criação, curiosa por natureza e com faro apurado para bugs escondidos.*
 
 
 ## 💻 Hard Skills  
 
-
-- Testes de Software Funcionais (Manuais)  
+- Ferramentas de Inteligência Artificial 
 - Ferramentas: GitHub, Jira, Visual Studio Code, Notion, Microsoft Teams, Outlook 
 - Metodologias Ágeis: Scrum e Kanban  
 - Proteção de Dados: GDPR e LGPD  
 - Identificação e Documentação de Bugs, Defeitos e Inconsistências  
-- Tecnologias: JavaScript, TypeScript, Node.js, React  
-- Frameworks e Ferramentas de Teste: Gherkin, Cypress, Postman, Figma
+- Tecnologias: JavaScript
+- Frameworks: Figma, Canva
 - Criação de Cenários de Testes e Casos de Testes  
 - Testes em Plataforma Web e simulação de ambiente Mobile (via DevTools Google Chrome)
-- Testes Exploratórios, de Usabilidade, de Acessibilidade, Responsividade, Regressão, Funcionais
-- Ferramentas de Teste: LightHouse, Google DevTools, ABADI, ABADI Web
 - Sugestões de Melhorias voltadas para a experiência do usuário  
 - Elaboração de Especificações Funcionais voltadas a projetos internos de sustentação e melhorias
 - Revisão e Criação das Regras do Negócio
@@ -31,7 +28,6 @@
 - Colaboração entre equipes
 - Comunicação eficaz com stakeholders
 - Gestão de tempo  
-- Perfil data-driven  
 - Foco em resultados  
 - Atenção aos detalhes  
 - Pensamento crítico  
